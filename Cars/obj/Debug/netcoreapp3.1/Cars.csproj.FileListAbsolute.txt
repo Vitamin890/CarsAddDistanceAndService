@@ -1,0 +1,26 @@
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.csproj.AssemblyReference.cache
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.AssemblyInfoInputs.cache
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.AssemblyInfo.cs
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.csproj.CoreCompileInputs.cache
+/Users/future/Projects/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.deps.json
+/Users/future/Projects/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.runtimeconfig.json
+/Users/future/Projects/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.runtimeconfig.dev.json
+/Users/future/Projects/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.dll
+/Users/future/Projects/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.pdb
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.dll
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.pdb
+/Users/future/Projects/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.genruntimeconfig.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.deps.json
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.runtimeconfig.json
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.runtimeconfig.dev.json
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.dll
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/bin/Debug/netcoreapp3.1/Cars.pdb
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.csproj.AssemblyReference.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.AssemblyInfoInputs.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.AssemblyInfo.cs
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.csproj.CoreCompileInputs.cache
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.dll
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.pdb
+/Users/future/Library/Mobile Documents/com~apple~CloudDocs/Projects C#/Foxminded/Cars/obj/Debug/netcoreapp3.1/Cars.genruntimeconfig.cache

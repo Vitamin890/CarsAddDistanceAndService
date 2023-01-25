@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "niR61qHYrz/5CIgHCVuqjOFSEFAZKqyRRDklzWHCSmrZnyNPPa4UVVZqeh6HaRdNSfdBOe8tIsZJ8c+Tc1UAjQ==",
+  "success": true,
+  "projectFilePath": "/Users/future/Documents/C# projects/Cars/Cars.csproj",
+  "expectedPackageFiles": [
+    "/Users/future/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
